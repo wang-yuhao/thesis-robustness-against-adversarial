@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{cisse2017parseval}
+Moustapha Cisse, Piotr Bojanowski, Edouard Grave, Yann Dauphin, and Nicolas
+  Usunier.
+\newblock Parseval networks: Improving robustness to adversarial examples.
+\newblock In {\em Proceedings of the 34th International Conference on Machine
+  Learning-Volume 70}, pages 854--863. JMLR. org, 2017.
+
+\bibitem{denton2014exploiting}
+Emily~L Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, and Rob Fergus.
+\newblock Exploiting linear structure within convolutional networks for
+  efficient evaluation.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1269--1277, 2014.
+
+\bibitem{duchi2008efficient}
+John Duchi, Shai Shalev-Shwartz, Yoram Singer, and Tushar Chandra.
+\newblock Efficient projections onto the l 1-ball for learning in high
+  dimensions.
+\newblock In {\em Proceedings of the 25th international conference on Machine
+  learning}, pages 272--279. ACM, 2008.
+
+\bibitem{fawzi2018analysis}
+Alhussein Fawzi, Omar Fawzi, and Pascal Frossard.
+\newblock Analysis of classifiers’ robustness to adversarial perturbations.
+\newblock {\em Machine Learning}, 107(3):481--508, 2018.
+
+\bibitem{goodfellow2014explaining}
+Ian~J Goodfellow, Jonathon Shlens, and Christian Szegedy.
+\newblock Explaining and harnessing adversarial examples.
+\newblock {\em arXiv preprint arXiv:1412.6572}, 2014.
+
+\bibitem{gu2014towards}
+Shixiang Gu and Luca Rigazio.
+\newblock Towards deep neural network architectures robust to adversarial
+  examples.
+\newblock {\em arXiv preprint arXiv:1412.5068}, 2014.
+
+\bibitem{papernot2016distillation}
+Nicolas Papernot, Patrick McDaniel, Xi~Wu, Somesh Jha, and Ananthram Swami.
+\newblock Distillation as a defense to adversarial perturbations against deep
+  neural networks.
+\newblock In {\em 2016 IEEE Symposium on Security and Privacy (SP)}, pages
+  582--597. IEEE, 2016.
+
+\bibitem{szegedy2013intriguing}
+Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan,
+  Ian Goodfellow, and Rob Fergus.
+\newblock Intriguing properties of neural networks.
+\newblock {\em arXiv preprint arXiv:1312.6199}, 2013.
+
+\end{thebibliography}

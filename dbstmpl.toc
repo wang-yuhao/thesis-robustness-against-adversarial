@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Related Work}{3}
+\contentsline {chapter}{\numberline {3}Task}{4}
+\contentsline {chapter}{\numberline {4}Approaches}{6}
+\contentsline {section}{\numberline {4.1}Previous Approach: Adversarial Training}{6}
+\contentsline {section}{\numberline {4.2}State-of-the-art Approach: Parseval Networks}{7}
+\contentsline {subsection}{\numberline {4.2.1}Data Augmentation}{7}
+\contentsline {subsection}{\numberline {4.2.2}Parseval Networks}{9}
+\contentsline {chapter}{\numberline {5}Comparison to previous methods}{12}
+\contentsline {section}{\numberline {5.1}ORTHOGONALITY}{12}
+\contentsline {section}{\numberline {5.2}ROBUSTNESS}{13}
+\contentsline {section}{\numberline {5.3}CAPACITY}{13}
+\contentsline {section}{\numberline {5.4}CONVERGENCE}{13}
+\contentsline {chapter}{\numberline {6}Conclusion}{15}
+\contentsline {chapter}{Bibliography}{16}

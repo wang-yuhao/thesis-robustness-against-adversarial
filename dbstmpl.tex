@@ -1,0 +1,61 @@
+% Mit twoside als weitere Option werden die Seitenränder angepasst, sodass beidseitig gedruckt werden kann
+\documentclass[pdftex,12pt,a4paper]{report}
+
+% kann optional mit "german" als Sprache gewählt werden
+\usepackage[]{dbstmpl}
+
+
+
+%\global\arbeit{Bachelor Thesis}
+%\global\arbeit{Masterarbeit}
+\global\arbeit{Seminararbeit}
+
+
+
+
+% Hier die eigenen Daten eintragen
+\global\titel{Recent Developments in Robustness against Adversarial Perturbation}
+\global\bearbeiter{Yuhao Wang}
+\global\betreuer{Prof. Dr. Thomas Seidl}
+\global\aufgabensteller{Lehrstuhl für Datenbanksysteme und Data Mining}
+\global\abgabetermin{15.08.2019}
+\global\ort{ORT}
+\global\fach{Recent Developments in Deep Learning}
+
+\begin{document}
+
+% Deckblatt
+\deckblatt
+
+% Erklaerung fuer das Pruefungsamt
+% Bei Seminararbeiten nicht noetig
+\erklaerung
+
+% Zusammenfassung
+\begin{abstract}
+This project sums up the main points of the recent developments in deep learning for robustness against adversarial perturbation, then elaborates the tasks, datasets, evaluations of the previous approach adversarial training and the state of the art parseval regularization. Furthermore, a detailed comparison was made between of the previous methods and the most advanced approaches. A summary is provided at the end of this work, aiming to provide  more new ideas and directions for future work.
+\end{abstract}
+
+% Inhaltsverzeichnis (abhaengig von der Laenge des Dokuments)
+\tableofcontents
+
+% Hier beginnt der Hauptteil
+
+\input{Introduction}
+
+
+
+
+%% Ende Hauptteil
+
+% Abbildungsverzeichnis (kann auch nach dem Inhaltsverzeichnis kommen)
+%\listoffigures
+
+% Tabellenverzeichnis (kann auch nach dem Inhaltsverzeichnis kommen)
+%\listoftables
+
+% Literaturverzeichnis
+\bibliographystyle{plain} 
+\bibliography{dbstmpl}         % verwendet dbstmpl.bib
+
+\end{document}
